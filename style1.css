@@ -1,0 +1,21 @@
+h1,center{
+    font-size: xx-small;
+    font: weight 100000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+li{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+}
+.p1{
+    text-align:right;
+}
+h4 {
+    text-decoration: underline ;
+}    
+.maj{
+   list-style-type:upper-roman; 
+}

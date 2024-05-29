@@ -1,0 +1,21 @@
+td,th /* Toutes les cellules des tableaux... */
+{
+border: 1px solid black; /* ... auront une bordure de 1px */
+}
+
+table
+{
+border-collapse: collapse;
+background-color:rgb(127, 249, 255);
+}
+td,th /* Mettre une bordure sur les td ET les th */
+{
+border: 1px solid black;
+padding:10px;
+}
+.f1{
+    background-color:antiquewhite;
+}
+.f2{
+    background-color:blue;
+}

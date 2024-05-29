@@ -1,0 +1,12 @@
+/*commentaire css */
+body{
+    background-color: antiquewhite;
+    font-size: smaller;
+    font-weight: 500;
+    font-style: oblique;
+    margin: 0px;
+}
+h1,h2{
+    color: rgb(234, 255, 127);
+    font-style: calc();
+}
